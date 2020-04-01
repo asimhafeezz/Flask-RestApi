@@ -17,7 +17,7 @@ $ python
 python app.py
 ```
 
-## Apis
+## Routes
 
 * GET     /product/:id
 * GET     /showallproducts/:id
